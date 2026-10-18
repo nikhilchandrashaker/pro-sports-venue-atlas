@@ -1,0 +1,163 @@
+{
+ "N": 124,
+ "venues": 111,
+ "metros": 51,
+ "multi_metros": 35,
+ "multi_teams": 108,
+ "four_metros": 11,
+ "four_teams": 52,
+ "ny_teams": 9,
+ "ny_venues": 7,
+ "la_teams": 6,
+ "single": 16,
+ "shared_venues": 13,
+ "shared_nba_nhl": 11,
+ "shared_by_league": {
+  "NBA": 11,
+  "NFL": 4,
+  "MLB": 0,
+  "NHL": 11
+ },
+ "can": {
+  "NBA": 1,
+  "NFL": 0,
+  "MLB": 1,
+  "NHL": 7
+ },
+ "ls": {
+  "MLB": {
+   "teams": 30,
+   "venues": 30,
+   "metros": 28,
+   "states_provs": 19,
+   "canadian_teams": 1,
+   "centroid_lat": 38.0,
+   "centroid_lon": -92.0,
+   "mean_km_from_centroid": 1360.0,
+   "median_km_from_centroid": 1298.0,
+   "east_west_span_km": 4422.0,
+   "north_south_span_km": 2425.0
+  },
+  "NBA": {
+   "teams": 30,
+   "venues": 30,
+   "metros": 28,
+   "states_provs": 23,
+   "canadian_teams": 1,
+   "centroid_lat": 37.0,
+   "centroid_lon": -93.0,
+   "mean_km_from_centroid": 1366.0,
+   "median_km_from_centroid": 1251.0,
+   "east_west_span_km": 4504.0,
+   "north_south_span_km": 2196.0
+  },
+  "NFL": {
+   "teams": 32,
+   "venues": 30,
+   "metros": 30,
+   "states_provs": 23,
+   "canadian_teams": 0,
+   "centroid_lat": 38.0,
+   "centroid_lon": -91.0,
+   "mean_km_from_centroid": 1270.0,
+   "median_km_from_centroid": 1153.0,
+   "east_west_span_km": 4443.0,
+   "north_south_span_km": 2406.0
+  },
+  "NHL": {
+   "teams": 32,
+   "venues": 32,
+   "metros": 30,
+   "states_provs": 24,
+   "canadian_teams": 7,
+   "centroid_lat": 41.0,
+   "centroid_lon": -92.0,
+   "mean_km_from_centroid": 1480.0,
+   "median_km_from_centroid": 1494.0,
+   "east_west_span_km": 4324.0,
+   "north_south_span_km": 3045.0
+  }
+ },
+ "boswash": 23,
+ "bw_metros": 5,
+ "east90": 56,
+ "west105": 26,
+ "nn_med": {
+  "MLB": 102.0,
+  "NBA": 187.0,
+  "NFL": 190.0,
+  "NHL": 169.0
+ },
+ "nn_max": {
+  "MLB": {
+   "team": "Seattle Mariners",
+   "miles": 624.0
+  },
+  "NBA": {
+   "team": "Portland Trail Blazers",
+   "miles": 484.0
+  },
+  "NFL": {
+   "team": "Seattle Seahawks",
+   "miles": 704.0
+  },
+  "NHL": {
+   "team": "Dallas Stars",
+   "miles": 547.0
+  }
+ },
+ "single_by_league": {
+  "NBA": [
+   "Memphis",
+   "Oklahoma City",
+   "Orlando",
+   "Portland",
+   "San Antonio"
+  ],
+  "NFL": [
+   "Green Bay",
+   "Jacksonville"
+  ],
+  "MLB": [
+   "San Diego"
+  ],
+  "NHL": [
+   "Calgary",
+   "Columbus",
+   "Edmonton",
+   "Montreal",
+   "Ottawa",
+   "Raleigh",
+   "Vancouver",
+   "Winnipeg"
+  ]
+ },
+ "sens60": 48,
+ "sens25": 51,
+ "clusters": {
+  "New York Metro region": {
+   "venues": 31,
+   "teams": 37
+  },
+  "Chicago region": {
+   "venues": 27,
+   "teams": 29
+  },
+  "Los Angeles region": {
+   "venues": 19,
+   "teams": 22
+  },
+  "Miami region": {
+   "venues": 16,
+   "teams": 16
+  },
+  "Dallas\u2013Fort Worth region": {
+   "venues": 11,
+   "teams": 13
+  },
+  "Seattle region": {
+   "venues": 7,
+   "teams": 7
+  }
+ }
+}

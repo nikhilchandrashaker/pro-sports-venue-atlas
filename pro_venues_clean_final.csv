@@ -1,0 +1,125 @@
+league,team,city,state_province,arena,lat,long,abbreviation,color,alternate_color,logo
+NBA,Dallas Mavericks,Dallas,Texas,American Airlines Center,32.79056,-96.81028,DAL,0064b1,bbc4ca,https://a.espncdn.com/i/teamlogos/nba/500/dal.png
+NBA,Denver Nuggets,Denver,Colorado,Ball Arena,39.74861,-105.0075,DEN,0e2240,fec524,https://a.espncdn.com/i/teamlogos/nba/500/den.png
+NBA,Brooklyn Nets,Brooklyn,New York,Barclays Center,40.6826611,-73.975225,BKN,000000,ffffff,https://a.espncdn.com/i/teamlogos/nba/500/bkn.png
+NBA,Washington Wizards,Washington,D.C.,Capital One Arena,38.89806,-77.02083,WSH,e31837,002b5c,https://a.espncdn.com/i/teamlogos/nba/500/wsh.png
+NBA,Golden State Warriors,San Francisco,California,Chase Center,37.76806,-122.3875,GS,fdb927,1d428a,https://a.espncdn.com/i/teamlogos/nba/500/gs.png
+NBA,Los Angeles Lakers,Los Angeles,California,Crypto.com Arena,34.04306,-118.26722,LAL,552583,fdb927,https://a.espncdn.com/i/teamlogos/nba/500/lal.png
+NBA,Utah Jazz,Salt Lake City,Utah,Delta Center,40.76833,-111.90111,UTAH,4e008e,79a3dc,https://a.espncdn.com/i/teamlogos/nba/500/utah.png
+NBA,Memphis Grizzlies,Memphis,Tennessee,FedExForum,35.13833,-90.05056,MEM,5d76a9,12173f,https://a.espncdn.com/i/teamlogos/nba/500/mem.png
+NBA,Milwaukee Bucks,Milwaukee,Wisconsin,Fiserv Forum,43.045028,-87.918167,MIL,00471b,eee1c6,https://a.espncdn.com/i/teamlogos/nba/500/mil.png
+NBA,San Antonio Spurs,San Antonio,Texas,Frost Bank Center,29.42694,-98.4375,SA,000000,c4ced4,https://a.espncdn.com/i/teamlogos/nba/500/sa.png
+NBA,Indiana Pacers,Indianapolis,Indiana,Gainbridge Fieldhouse,39.76389,-86.15556,IND,0c2340,ffd520,https://a.espncdn.com/i/teamlogos/nba/500/ind.png
+NBA,Sacramento Kings,Sacramento,California,Golden 1 Center,38.580361,-121.499611,SAC,5a2d81,6a7a82,https://a.espncdn.com/i/teamlogos/nba/500/sac.png
+NBA,LA Clippers,Inglewood,California,Intuit Dome,33.9451,-118.3431,LAC,12173f,c8102e,https://a.espncdn.com/i/teamlogos/nba/500/lac.png
+NBA,Miami Heat,Miami,Florida,Kaseya Center,25.78139,-80.18806,MIA,98002e,000000,https://a.espncdn.com/i/teamlogos/nba/500/mia.png
+NBA,Orlando Magic,Orlando,Florida,Kia Center,28.53917,-81.38361,ORL,0150b5,9ca0a3,https://a.espncdn.com/i/teamlogos/nba/500/orl.png
+NBA,Detroit Pistons,Detroit,Michigan,Little Caesars Arena,42.34111,-83.055,DET,1d428a,c8102e,https://a.espncdn.com/i/teamlogos/nba/500/det.png
+NBA,New York Knicks,New York,New York,Madison Square Garden,40.75056,-73.99361,NY,1d428a,f58426,https://a.espncdn.com/i/teamlogos/nba/500/ny.png
+NBA,Portland Trail Blazers,Portland,Oregon,Moda Center,45.53167,-122.66667,POR,e03a3e,000000,https://a.espncdn.com/i/teamlogos/nba/500/por.png
+NBA,Phoenix Suns,Phoenix,Arizona,Mortgage Matchup Center,33.44583,-112.07139,PHX,29127a,e56020,https://a.espncdn.com/i/teamlogos/nba/500/phx.png
+NBA,Oklahoma City Thunder,Oklahoma City,Oklahoma,Paycom Center,35.46333,-97.515,OKC,007ac1,ef3b24,https://a.espncdn.com/i/teamlogos/nba/500/okc.png
+NBA,Cleveland Cavaliers,Cleveland,Ohio,Rocket Arena,41.49639,-81.68806,CLE,860038,bc945c,https://a.espncdn.com/i/teamlogos/nba/500/cle.png
+NBA,Toronto Raptors,Toronto,Ontario,Scotiabank Arena,43.64333,-79.37917,TOR,d91244,000000,https://a.espncdn.com/i/teamlogos/nba/500/tor.png
+NBA,New Orleans Pelicans,New Orleans,Louisiana,Smoothie King Center,29.94889,-90.08194,NO,0a2240,b4975a,https://a.espncdn.com/i/teamlogos/nba/500/no.png
+NBA,Charlotte Hornets,Charlotte,North Carolina,Spectrum Center,35.225,-80.83917,CHA,008ca8,1d1060,https://a.espncdn.com/i/teamlogos/nba/500/cha.png
+NBA,Atlanta Hawks,Atlanta,Georgia,State Farm Arena,33.75722,-84.39639,ATL,c8102e,fdb927,https://a.espncdn.com/i/teamlogos/nba/500/atl.png
+NBA,Minnesota Timberwolves,Minneapolis,Minnesota,Target Center,44.97944,-93.27611,MIN,266092,79bc43,https://a.espncdn.com/i/teamlogos/nba/500/min.png
+NBA,Boston Celtics,Boston,Massachusetts,TD Garden,42.36639,-71.06222,BOS,008348,ffffff,https://a.espncdn.com/i/teamlogos/nba/500/bos.png
+NBA,Houston Rockets,Houston,Texas,Toyota Center,29.75083,-95.36222,HOU,ce1141,000000,https://a.espncdn.com/i/teamlogos/nba/500/hou.png
+NBA,Chicago Bulls,Chicago,Illinois,United Center,41.88056,-87.67417,CHI,ce1141,000000,https://a.espncdn.com/i/teamlogos/nba/500/chi.png
+NBA,Philadelphia 76ers,Philadelphia,Pennsylvania,Xfinity Mobile Arena,39.90111,-75.17194,PHI,1d428a,e01234,https://a.espncdn.com/i/teamlogos/nba/500/phi.png
+NFL,Pittsburgh Steelers,Pittsburgh,Pennsylvania,Acrisure Stadium,40.44667,-80.01583,PIT,000000,FFB612,https://a.espncdn.com/i/teamlogos/nfl/500/pit.png
+NFL,Las Vegas Raiders,Paradise,Nevada,Allegiant Stadium,36.09056,-115.18389,LV,000000,A5ACAF,https://a.espncdn.com/i/teamlogos/nfl/500/lv.png
+NFL,Kansas City Chiefs,Kansas City,Missouri,Arrowhead Stadium,39.04889,-94.48389,KC,E31837,FFB612,https://a.espncdn.com/i/teamlogos/nfl/500/kc.png
+NFL,Dallas Cowboys,Arlington,Texas,AT&T Stadium,32.74778,-97.09278,DAL,002244,B0B7BC,https://a.espncdn.com/i/teamlogos/nfl/500/dal.png
+NFL,Carolina Panthers,Charlotte,North Carolina,Bank of America Stadium,35.22583,-80.85278,CAR,0085CA,000000,https://a.espncdn.com/i/teamlogos/nfl/500-dark/car.png
+NFL,New Orleans Saints,New Orleans,Louisiana,Caesars Superdome,29.95083,-90.08111,NO,D3BC8D,000000,https://a.espncdn.com/i/teamlogos/nfl/500/no.png
+NFL,Denver Broncos,Denver,Colorado,Empower Field at Mile High,39.74389,-105.02,DEN,002244,FB4F14,https://a.espncdn.com/i/teamlogos/nfl/500/den.png
+NFL,Jacksonville Jaguars,Jacksonville,Florida,EverBank Stadium,30.32389,-81.6375,JAX,006778,000000,https://a.espncdn.com/i/teamlogos/nfl/500/jax.png
+NFL,Detroit Lions,Detroit,Michigan,Ford Field,42.34,-83.04556,DET,0076B6,B0B7BC,https://a.espncdn.com/i/teamlogos/nfl/500/det.png
+NFL,New England Patriots,Foxborough,Massachusetts,Gillette Stadium,42.091,-71.264,NE,002244,C60C30,https://a.espncdn.com/i/teamlogos/nfl/500/ne.png
+NFL,Miami Dolphins,Miami Gardens,Florida,Hard Rock Stadium,25.95806,-80.23889,MIA,008E97,F58220,https://a.espncdn.com/i/teamlogos/nfl/500/mia.png
+NFL,Buffalo Bills,Orchard Park,New York,Highmark Stadium,42.77306,-78.79222,BUF,00338D,C60C30,https://a.espncdn.com/i/teamlogos/nfl/500/buf.png
+NFL,Cleveland Browns,Cleveland,Ohio,Huntington Bank Field,41.50611,-81.69944,CLE,FF3C00,311D00,https://a.espncdn.com/i/teamlogos/nfl/500/cle.png
+NFL,Green Bay Packers,Green Bay,Wisconsin,Lambeau Field,44.50139,-88.06222,GB,203731,FFB612,https://a.espncdn.com/i/teamlogos/nfl/500/gb.png
+NFL,San Francisco 49ers,Santa Clara,California,Levi's Stadium,37.403,-121.97,SF,AA0000,B3995D,https://a.espncdn.com/i/teamlogos/nfl/500/sf.png
+NFL,Philadelphia Eagles,Philadelphia,Pennsylvania,Lincoln Financial Field,39.90083,-75.1675,PHI,004C54,A5ACAF,https://a.espncdn.com/i/teamlogos/nfl/500/phi.png
+NFL,Indianapolis Colts,Indianapolis,Indiana,Lucas Oil Stadium,39.760056,-86.163806,IND,002C5F,a5acaf,https://a.espncdn.com/i/teamlogos/nfl/500/ind.png
+NFL,Seattle Seahawks,Seattle,Washington,Lumen Field,47.5952,-122.3316,SEA,002244,69be28,https://a.espncdn.com/i/teamlogos/nfl/500/sea.png
+NFL,Baltimore Ravens,Baltimore,Maryland,M&T Bank Stadium,39.27806,-76.62278,BAL,241773,9E7C0C,https://a.espncdn.com/i/teamlogos/nfl/500/bal.png
+NFL,Atlanta Falcons,Atlanta,Georgia,Mercedes-Benz Stadium,33.75556,-84.4,ATL,A71930,000000,https://a.espncdn.com/i/teamlogos/nfl/500/atl.png
+NFL,New York Giants,East Rutherford,New Jersey,MetLife Stadium,40.813528,-74.074361,NYG,0B2265,A71930,https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png
+NFL,New York Jets,East Rutherford,New Jersey,MetLife Stadium,40.813528,-74.074361,NYJ,003F2D,000000,https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png
+NFL,Tennessee Titans,Nashville,Tennessee,Nissan Stadium,36.16639,-86.77139,TEN,002244,4B92DB,https://a.espncdn.com/i/teamlogos/nfl/500/ten.png
+NFL,Washington Commanders,Landover,Maryland,Northwest Stadium,38.90778,-76.86444,WAS,5A1414,FFB612,https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png
+NFL,Houston Texans,Houston,Texas,NRG Stadium,29.68472,-95.41083,HOU,03202F,A71930,https://a.espncdn.com/i/teamlogos/nfl/500/hou.png
+NFL,Cincinnati Bengals,Cincinnati,Ohio,Paycor Stadium,39.095,-84.516,CIN,FB4F14,000000,https://a.espncdn.com/i/teamlogos/nfl/500/cin.png
+NFL,Tampa Bay Buccaneers,Tampa,Florida,Raymond James Stadium,27.97583,-82.50333,TB,A71930,322F2B,https://a.espncdn.com/i/teamlogos/nfl/500/tb.png
+NFL,Los Angeles Rams,Inglewood,California,SoFi Stadium,33.953,-118.339,LAR,003594,FFD100,https://a.espncdn.com/i/teamlogos/nfl/500/lar.png
+NFL,Los Angeles Chargers,Inglewood,California,SoFi Stadium,33.953,-118.339,LAC,007BC7,ffc20e,https://a.espncdn.com/i/teamlogos/nfl/500/lac.png
+NFL,Chicago Bears,Chicago,Illinois,Soldier Field,41.8623,-87.6167,CHI,0B162A,C83803,https://a.espncdn.com/i/teamlogos/nfl/500/chi.png
+NFL,Arizona Cardinals,Glendale,Arizona,State Farm Stadium,33.528,-112.263,ARI,97233F,000000,https://a.espncdn.com/i/teamlogos/nfl/500/ari.png
+NFL,Minnesota Vikings,Minneapolis,Minnesota,U.S. Bank Stadium,44.974,-93.258,MIN,4F2683,FFC62F,https://a.espncdn.com/i/teamlogos/nfl/500/min.png
+MLB,Milwaukee Brewers,Milwaukee,Wisconsin,American Family Field,43.02833,-87.97111,MIL,13294b,ffc72c,https://a.espncdn.com/i/teamlogos/mlb/500/mil.png
+MLB,Los Angeles Angels,Anaheim,California,Angel Stadium,33.80028,-117.88278,LAA,ba0021,c4ced4,https://a.espncdn.com/i/teamlogos/mlb/500/laa.png
+MLB,St. Louis Cardinals,St. Louis,Missouri,Busch Stadium,38.6225,-90.19306,STL,be0a14,001541,https://a.espncdn.com/i/teamlogos/mlb/500/stl.png
+MLB,Arizona Diamondbacks,Phoenix,Arizona,Chase Field,33.44528,-112.06694,ARI,aa182c,000000,https://a.espncdn.com/i/teamlogos/mlb/500/ari.png
+MLB,New York Mets,Queens,New York,Citi Field,40.75694,-73.84583,NYM,002d72,ff5910,https://a.espncdn.com/i/teamlogos/mlb/500/nym.png
+MLB,Philadelphia Phillies,Philadelphia,Pennsylvania,Citizens Bank Park,39.90583,-75.16639,PHI,e81828,003278,https://a.espncdn.com/i/teamlogos/mlb/500/phi.png
+MLB,Detroit Tigers,Detroit,Michigan,Comerica Park,42.33917,-83.04861,DET,0a2240,ff4713,https://a.espncdn.com/i/teamlogos/mlb/500/det.png
+MLB,Colorado Rockies,Denver,Colorado,Coors Field,39.75611,-104.99417,COL,33006f,000000,https://a.espncdn.com/i/teamlogos/mlb/500/col.png
+MLB,Houston Astros,Houston,Texas,Daikin Park,29.75694,-95.35556,HOU,002d62,eb6e1f,https://a.espncdn.com/i/teamlogos/mlb/500/hou.png
+MLB,Los Angeles Dodgers,Los Angeles,California,Dodger Stadium,34.07361,-118.24,LAD,005a9c,ffffff,https://a.espncdn.com/i/teamlogos/mlb/500/lad.png
+MLB,Boston Red Sox,Boston,Massachusetts,Fenway Park,42.34639,-71.09778,BOS,0d2b56,bd3039,https://a.espncdn.com/i/teamlogos/mlb/500/bos.png
+MLB,Texas Rangers,Arlington,Texas,Globe Life Field,32.7475,-97.08417,TEX,003278,c0111f,https://a.espncdn.com/i/teamlogos/mlb/500/tex.png
+MLB,Cincinnati Reds,Cincinnati,Ohio,Great American Ball Park,39.0975,-84.50667,CIN,c6011f,ffffff,https://a.espncdn.com/i/teamlogos/mlb/500/cin.png
+MLB,Kansas City Royals,Kansas City,Missouri,Kauffman Stadium,39.0514,-94.4806,KC,004687,7ab2dd,https://a.espncdn.com/i/teamlogos/mlb/500/kc.png
+MLB,Miami Marlins,Miami,Florida,LoanDepot Park,25.77806,-80.21972,MIA,00a3e0,000000,https://a.espncdn.com/i/teamlogos/mlb/500/mia.png
+MLB,Washington Nationals,Washington,D.C.,Nationals Park,38.87278,-77.0075,WSH,ab0003,11225b,https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png
+MLB,San Francisco Giants,San Francisco,California,Oracle Park,37.77861,-122.38917,SF,000000,fd5a1e,https://a.espncdn.com/i/teamlogos/mlb/500/sf.png
+MLB,Baltimore Orioles,Baltimore,Maryland,Oriole Park at Camden Yards,39.28389,-76.62167,BAL,df4601,000000,https://a.espncdn.com/i/teamlogos/mlb/500/bal.png
+MLB,San Diego Padres,San Diego,California,Petco Park,32.7073,-117.1566,SD,2f241d,ffc425,https://a.espncdn.com/i/teamlogos/mlb/500/sd.png
+MLB,Pittsburgh Pirates,Pittsburgh,Pennsylvania,PNC Park,40.44694,-80.00583,PIT,000000,fdb827,https://a.espncdn.com/i/teamlogos/mlb/500/pit.png
+MLB,Cleveland Guardians,Cleveland,Ohio,Progressive Field,41.49583,-81.68528,CLE,002b5c,e31937,https://a.espncdn.com/i/teamlogos/mlb/500/cle.png
+MLB,Chicago White Sox,Chicago,Illinois,Rate Field,41.83,-87.63389,CHW,000000,c4ced4,https://a.espncdn.com/i/teamlogos/mlb/500/chw.png
+MLB,Toronto Blue Jays,Toronto,Ontario,Rogers Centre,43.64139,-79.38917,TOR,134a8e,6cace5,https://a.espncdn.com/i/teamlogos/mlb/500/tor.png
+MLB,Athletics,West Sacramento,California,Sutter Health Park,38.5803722,-121.5138,ATH,003831,efb21e,https://a.espncdn.com/i/teamlogos/mlb/500/ath.png
+MLB,Seattle Mariners,Seattle,Washington,T-Mobile Park,47.591,-122.333,SEA,005c5c,0c2c56,https://a.espncdn.com/i/teamlogos/mlb/500/sea.png
+MLB,Minnesota Twins,Minneapolis,Minnesota,Target Field,44.98167,-93.27833,MIN,031f40,e20e32,https://a.espncdn.com/i/teamlogos/mlb/500/min.png
+MLB,Tampa Bay Rays,St. Petersburg,Florida,Tropicana Field,27.76833,-82.65333,TB,092c5c,8fbce6,https://a.espncdn.com/i/teamlogos/mlb/500/tb.png
+MLB,Atlanta Braves,Cumberland,Georgia,Truist Park,33.89,-84.468,ATL,0c2340,ba0c2f,https://a.espncdn.com/i/teamlogos/mlb/500/atl.png
+MLB,Chicago Cubs,Chicago,Illinois,Wrigley Field,41.94806,-87.65556,CHC,0e3386,cc3433,https://a.espncdn.com/i/teamlogos/mlb/500/chc.png
+MLB,New York Yankees,Bronx,New York,Yankee Stadium,40.82917,-73.92639,NYY,132448,c4ced4,https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png
+NHL,Florida Panthers,Sunrise,Florida,Amerant Bank Arena,26.15833,-80.32556,FLA,041E42,C8102E,https://a.espncdn.com/i/teamlogos/nhl/500/FLA.png
+NHL,Dallas Stars,Dallas,Texas,American Airlines Center,32.79056,-96.81028,DAL,006847,8F8F8C,https://a.espncdn.com/i/teamlogos/nhl/500/DAL.png
+NHL,Colorado Avalanche,Denver,Colorado,Ball Arena,39.74861,-105.0075,COL,6F263D,236192,https://a.espncdn.com/i/teamlogos/nhl/500/COL.png
+NHL,Montreal Canadiens,Montreal,Quebec,Bell Centre,45.49611,-73.56944,MTL,AF1E2D,192168,https://a.espncdn.com/i/teamlogos/nhl/500/MTL.png
+NHL,Tampa Bay Lightning,Tampa,Florida,Benchmark International Arena,27.94278,-82.45194,TBL,002868,FFFFFF,https://a.espncdn.com/i/teamlogos/nhl/500/TB.png
+NHL,Nashville Predators,Nashville,Tennessee,Bridgestone Arena,36.15917,-86.77861,NSH,FFB81C,041E42,https://a.espncdn.com/i/teamlogos/nhl/500/NSH.png
+NHL,Winnipeg Jets,Winnipeg,Manitoba,Canada Life Centre,49.89278,-97.14361,WPG,041E42,AC162C,https://a.espncdn.com/i/teamlogos/nhl/500/WPG.png
+NHL,Ottawa Senators,Ottawa,Ontario,Canadian Tire Centre,45.29694,-75.92722,OTT,C52032,C2912C,https://a.espncdn.com/i/teamlogos/nhl/500/OTT.png
+NHL,Washington Capitals,Washington,D.C.,Capital One Arena,38.89806,-77.02083,WSH,C8102E,041E42,https://a.espncdn.com/i/teamlogos/nhl/500/WSH.png
+NHL,Seattle Kraken,Seattle,Washington,Climate Pledge Arena,47.622,-122.354,SEA,99D9D9,001628,https://a.espncdn.com/i/teamlogos/nhl/500/SEA.png
+NHL,Los Angeles Kings,Los Angeles,California,Crypto.com Arena,34.04306,-118.26722,LAK,111111,A2AAAD,https://a.espncdn.com/i/teamlogos/nhl/500/LA.png
+NHL,Utah Mammoth,Salt Lake City,Utah,Delta Center,40.76833,-111.90111,UTA,69B3E7,010101,https://a.espncdn.com/i/teamlogos/nhl/500/UTA.png
+NHL,St. Louis Blues,St. Louis,Missouri,Enterprise Center,38.62667,-90.2025,STL,002F87,FCB514,https://a.espncdn.com/i/teamlogos/nhl/500/STL.png
+NHL,Minnesota Wild,Saint Paul,Minnesota,Grand Casino Arena,44.94472,-93.10111,MIN,154734,A6192E,https://a.espncdn.com/i/teamlogos/nhl/500/MIN.png
+NHL,Anaheim Ducks,Anaheim,California,Honda Center,33.80778,-117.87667,ANA,F47A38,B9975B,https://a.espncdn.com/i/teamlogos/nhl/500/ANA.png
+NHL,Buffalo Sabres,Buffalo,New York,KeyBank Center,42.875,-78.87639,BUF,002654,FCB514,https://a.espncdn.com/i/teamlogos/nhl/500/BUF.png
+NHL,Carolina Hurricanes,Raleigh,North Carolina,Lenovo Center,35.80333,-78.72194,CAR,CC0000,000000,https://a.espncdn.com/i/teamlogos/nhl/500/CAR.png
+NHL,Detroit Red Wings,Detroit,Michigan,Little Caesars Arena,42.34111,-83.055,DET,CE1126,FFFFFF,https://a.espncdn.com/i/teamlogos/nhl/500/DET.png
+NHL,New York Rangers,New York City,New York,Madison Square Garden,40.75056,-73.99361,NYR,0038A8,CE1126,https://a.espncdn.com/i/teamlogos/nhl/500/NYR.png
+NHL,Columbus Blue Jackets,Columbus,Ohio,Nationwide Arena,39.9692833,-83.0061111,CBJ,002654,CE1126,https://a.espncdn.com/i/teamlogos/nhl/500/CBJ.png
+NHL,Pittsburgh Penguins,Pittsburgh,Pennsylvania,PPG Paints Arena,40.43944,-79.98917,PIT,FCB514,000000,https://a.espncdn.com/i/teamlogos/nhl/500/PIT.png
+NHL,New Jersey Devils,Newark,New Jersey,Prudential Center,40.73361,-74.17111,NJD,CE1126,000000,https://a.espncdn.com/i/teamlogos/nhl/500/NJD.png
+NHL,Vancouver Canucks,Vancouver,British Columbia,Rogers Arena,49.27778,-123.10889,VAN,00205B,00843D,https://a.espncdn.com/i/teamlogos/nhl/500/VAN.png
+NHL,Edmonton Oilers,Edmonton,Alberta,Rogers Place,53.54694,-113.49778,EDM,FF4C00,041E42,https://a.espncdn.com/i/teamlogos/nhl/500/EDM.png
+NHL,San Jose Sharks,San Jose,California,SAP Center,37.33278,-121.90111,SJS,006D75,000000,https://a.espncdn.com/i/teamlogos/nhl/500/SJ.png
+NHL,Toronto Maple Leafs,Toronto,Ontario,Scotiabank Arena,43.64333,-79.37917,TOR,00205B,FFFFFF,https://a.espncdn.com/i/teamlogos/nhl/500/TOR.png
+NHL,Calgary Flames,Calgary,Alberta,Scotiabank Saddledome,51.0375,-114.05194,CGY,C8102E,F1BE48,https://a.espncdn.com/i/teamlogos/nhl/500/CGY.png
+NHL,Boston Bruins,Boston,Massachusetts,TD Garden,42.36639,-71.06222,BOS,FFB81C,000000,https://a.espncdn.com/i/teamlogos/nhl/500/BOS.png
+NHL,Vegas Golden Knights,Paradise,Nevada,T-Mobile Arena,36.10278,-115.17833,VGK,B4975A,333F42,https://a.espncdn.com/i/teamlogos/nhl/500/VGK.png
+NHL,New York Islanders,Elmont,New York,UBS Arena,40.71179,-73.72604,NYI,00539B,F47D30,https://a.espncdn.com/i/teamlogos/nhl/500/NYI.png
+NHL,Chicago Blackhawks,Chicago,Illinois,United Center,41.88056,-87.67417,CHI,CF0A2C,000000,https://a.espncdn.com/i/teamlogos/nhl/500/CHI.png
+NHL,Philadelphia Flyers,Philadelphia,Pennsylvania,Xfinity Mobile Arena,39.90111,-75.17194,PHI,F74902,000000,https://a.espncdn.com/i/teamlogos/nhl/500/PHI.png

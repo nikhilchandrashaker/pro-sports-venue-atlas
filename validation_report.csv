@@ -1,0 +1,21 @@
+check,status,detail,rows_affected
+Whitespace trimmed,PASS,All text fields stripped of leading/trailing spaces,0
+Missing values,PASS,No blank cells in any of 11 columns,0
+League labels,PASS,"All labels in {NBA, NFL, MLB, NHL}",0
+Teams per league,PASS,"Found {'NFL': 32, 'NHL': 32, 'NBA': 30, 'MLB': 30}; expected {'NBA': 30, 'NFL': 32, 'MLB': 30, 'NHL': 32}",0
+Duplicate team rows,PASS,Each league+team appears exactly once,0
+Team name unique across leagues,PASS,No team name appears in two leagues,0
+Abbreviation unique within league,PASS,No abbreviation collisions,0
+Team-name style,PASS,"'LA Clippers' is the official branding (not 'Los Angeles'); kept as-is. 'Athletics' has no city prefix (relocated, official name). Both noted, not changed.",2
+Coordinates numeric,PASS,lat/long parse as floats,0
+Coordinates within North America,PASS,"All inside lat 24–55, lon −126…−65",0
+Longitude sign (western hemisphere),PASS,No positive longitudes,0
+State/province recognised,PASS,"32 distinct regions, all mapped",0
+Coordinates fall inside stated state/province,PASS,Every point lies in its state/province bounding box,0
+Shared venues have identical coordinates,PASS,Co-tenant teams share exactly one coordinate pair,0
+color is valid 6-digit hex,PASS,All valid,0
+alternate_color is valid 6-digit hex,PASS,All valid,0
+Logo URL host & league path,PASS,All logos are ESPN CDN URLs under the matching league folder,0
+Logo filename convention,FIXED/FLAGGED,"FLAGGED, NOT MODIFIED (cannot verify offline): 32 NHL logos use UPPERCASE filenames and Carolina Panthers uses the '500-dark' folder. The app hides any logo that fails to load.",33
+Derived fields added,PASS,"country, state_abbr, region, color_hex, text_on_color, metro, metro_cluster (13 venues hosting >1 team)",124
+Second file (pro_venues_clean_final_2_0.csv) cross-check,FIXED/FLAGGED,"58 field differences vs primary: 57 are colour codes with leading zeros stripped or turned into scientific notation (e.g. '0E+00', '3831'); 1 is a stale stadium name (Houston Texans 'Reliant Stadium' vs current 'NRG Stadium'). Primary file used.",57

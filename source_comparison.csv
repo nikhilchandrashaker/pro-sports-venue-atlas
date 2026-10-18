@@ -1,0 +1,59 @@
+league,team,field,primary_value,secondary_value
+NFL,Houston Texans,arena,NRG Stadium,Reliant Stadium
+NBA,Denver Nuggets,color,0e2240,0E+00
+NBA,Brooklyn Nets,color,000000,0
+NBA,San Antonio Spurs,color,000000,0
+NBA,Boston Celtics,color,008348,8348
+NFL,Pittsburgh Steelers,color,000000,0
+NFL,Las Vegas Raiders,color,000000,0
+NFL,Dallas Cowboys,color,002244,2244
+NFL,Denver Broncos,color,002244,2244
+NFL,Jacksonville Jaguars,color,006778,6778
+NFL,New England Patriots,color,002244,2244
+NFL,Miami Dolphins,color,008E97,8E+97
+NFL,Seattle Seahawks,color,002244,2244
+NFL,Tennessee Titans,color,002244,2244
+NFL,Los Angeles Rams,color,003594,3594
+MLB,Texas Rangers,color,003278,3278
+MLB,Kansas City Royals,color,004687,4687
+MLB,San Francisco Giants,color,000000,0
+MLB,Pittsburgh Pirates,color,000000,0
+MLB,Chicago White Sox,color,000000,0
+MLB,Athletics,color,003831,3831
+MLB,Chicago Cubs,color,0e3386,0E+00
+NHL,Florida Panthers,color,041E42,4.1E+43
+NHL,Dallas Stars,color,006847,6847
+NHL,Tampa Bay Lightning,color,002868,2868
+NHL,Winnipeg Jets,color,041E42,4.1E+43
+NHL,Buffalo Sabres,color,002654,2654
+NHL,Columbus Blue Jackets,color,002654,2654
+NBA,Miami Heat,alternate_color,000000,0
+NBA,Portland Trail Blazers,alternate_color,000000,0
+NBA,Toronto Raptors,alternate_color,000000,0
+NBA,Houston Rockets,alternate_color,000000,0
+NBA,Chicago Bulls,alternate_color,000000,0
+NFL,Carolina Panthers,alternate_color,000000,0
+NFL,New Orleans Saints,alternate_color,000000,0
+NFL,Jacksonville Jaguars,alternate_color,000000,0
+NFL,Atlanta Falcons,alternate_color,000000,0
+NFL,New York Jets,alternate_color,000000,0
+NFL,Cincinnati Bengals,alternate_color,000000,0
+NFL,Arizona Cardinals,alternate_color,000000,0
+MLB,St. Louis Cardinals,alternate_color,001541,1541
+MLB,Arizona Diamondbacks,alternate_color,000000,0
+MLB,Philadelphia Phillies,alternate_color,003278,3278
+MLB,Colorado Rockies,alternate_color,000000,0
+MLB,Miami Marlins,alternate_color,000000,0
+MLB,Baltimore Orioles,alternate_color,000000,0
+NHL,Nashville Predators,alternate_color,041E42,4.1E+43
+NHL,Washington Capitals,alternate_color,041E42,4.1E+43
+NHL,Seattle Kraken,alternate_color,001628,1628
+NHL,Utah Mammoth,alternate_color,010101,10101
+NHL,Carolina Hurricanes,alternate_color,000000,0
+NHL,Pittsburgh Penguins,alternate_color,000000,0
+NHL,New Jersey Devils,alternate_color,000000,0
+NHL,Edmonton Oilers,alternate_color,041E42,4.1E+43
+NHL,San Jose Sharks,alternate_color,000000,0
+NHL,Boston Bruins,alternate_color,000000,0
+NHL,Chicago Blackhawks,alternate_color,000000,0
+NHL,Philadelphia Flyers,alternate_color,000000,0
